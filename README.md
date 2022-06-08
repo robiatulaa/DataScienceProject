@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 I'm Robiatul Adawiyah Al-Qosh.
-I have a big interest in Data Analytics, so I learn a lot about Python, SQL, R, and visualization tools (Tableau/Google Data Studio). I'm currently doing my internship as Data Scintist in ID/X Parters.
+I'm experienced as Data Scientist intern in id/x Partners. Familiar with SQL, Python, R, and Google Data Studio. Able to operate Microsoft Excel and Google Spreadsheet. A hard worker, fast learner, responsible, innovative, and loyal person, also able to adapt to the team and individual work.
