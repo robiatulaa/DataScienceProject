@@ -1,11 +1,11 @@
-# ITI9136 - Algorithms and Programming Foundations in Python (2023)
-## Assignment 3
-### Group 09 - Monash University, Indonesia
+# Sudent Information Management System
+## Group Project
+### Monash University, Indonesia
 
-#### Group Members:
-- Reza Maliki Akbar (34292020)
-- Hugo Andrew Prathama (34022961)
-- Robiatul Adawiyah Al-Qosh (34269193)
+### Group Members:
+- Reza Maliki Akbar
+- Hugo Andrew Prathama
+- Robiatul Adawiyah Al-Qosh
 
 ### Project Description
 This project is aimed at developing competencies in designing, constructing, testing, and documenting a Python program based on specified programming standards. It contributes to the learning outcomes of restructuring computational programs into manageable modules, demonstrating I/O strategies, and applying testing and exception handling techniques.
@@ -122,3 +122,4 @@ Located on: [`docs/Group09_Diary.pdf`](docs/Group09_Diary.pdf)
 
 
 ---
+
