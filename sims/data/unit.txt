@@ -1,0 +1,4 @@
+9744663,ITI1210,SQL Database,30
+2795788,ITI5682,Python Algorithm,30
+4352386,ITI6008,Statistical Data Modelling,30
+9414729,ITI6789,Intro to Jangarhead,40
