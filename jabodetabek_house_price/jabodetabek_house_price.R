@@ -23,7 +23,7 @@ library(leaflet)
 library(ggplot2)
 
 # Set working directory
-setwd("D:/Study/S2 Monash University/MUI Y1 T3/ITI5147 Data Exploration and Visualisation/Assignments ITI5147/Al-Qosh_34269193_Assessment3_code")
+setwd("robiatulaa/jabodetabek_house_price")
 
 # Read the csv main file that contains Jabodetabek house price data
 jabodetabek_house_price <- read_csv("jabodetabek_house_price_cleaned.csv")
@@ -368,4 +368,5 @@ server <- function(input, output, session) {
 }
 
 # Run the shiny app
+
 shinyApp(ui, server)
