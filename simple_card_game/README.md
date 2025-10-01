@@ -21,7 +21,7 @@ The game runs in the terminal and allows the player to interact through a menu.
 - Option to exit anytime  
 
 ## Requirements
-- Python 3.x  
+- Python 3.10 above  
 
 No external libraries are required.
 
