@@ -37,12 +37,3 @@ The work demonstrates skills in **data wrangling, error correction, missing valu
 - **Language:** Python  
 - **Tools/Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
 
----
-
-## How to Run
-
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/retail-data-cleaning.git
-   cd retail-data-cleaning
-
